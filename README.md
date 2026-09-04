@@ -1,4 +1,4 @@
-# Hi there, I'm Akash 👋
+# Hi there, I'm Akash
 
 I am a Post graduate engineer specializing in computational modeling mainly in fluids and semiconductor physics, currently expanding my technical stack into Deep Learning and Natural Language Processing. 
 
