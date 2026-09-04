@@ -9,4 +9,4 @@ I am a Post graduate engineer specializing in computational modeling mainly in f
 *   🛠️ **Core Tools:** MATLAB, Python, c++, COMSOL Multiphysics, ANSYS Fluent, open FOAM, 3D modelling tools , Git
 
 ### 📈 GitHub Stats
-![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akash12373&show_icons=true&theme=dracula)
+![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akash12373&show_icons=true&theme=radical)
