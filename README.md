@@ -8,5 +8,8 @@ I am a Post graduate engineer specializing in computational modeling mainly in f
 *   🔭 **Focus Areas:** Computational Fluid Dynamics (CFD), semiconductor modeling, and PINN
 *   🛠️ **Core Tools:** MATLAB, Python, c++, COMSOL Multiphysics, ANSYS Fluent, open FOAM, 3D modelling tools , Git
 
-### 📈 GitHub Stats
-![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akash12373&show_icons=true&theme=radical)
+### 🔬 My Projects
+
+#### Physics-Informed Neural Networks (PINNs)
+* [PINN Project 1 Name](https://github.com/Akash12373/your-pinn-repo) - Micrograd engine do the gradient propagation and visualization
+
