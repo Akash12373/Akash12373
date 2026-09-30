@@ -12,5 +12,5 @@ I am a Post graduate engineer specializing in computational modeling mainly in f
 
 #### Physics-Informed Neural Networks (PINNs)
 * [micrograd engine](https://github.com/Akash12373/micrograd) - micrograd engine that do gradient back propagation and visualization
-* [Kerala Name Generator]([https://github.com/Akash12373/Autograd-engine](https://github.com/Akash12373/Name-generator)) - custom PyTorch character-level neural networks to generate authentic Malayali names
+* [Kerala Name Generator](https://github.com/Akash12373/Name-generator) - custom PyTorch character-level neural networks to generate authentic Malayali names
 
