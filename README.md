@@ -6,7 +6,7 @@ I am a Post graduate engineer specializing in computational modeling mainly in f
 *   🎓 **Education:** M.Tech from IIT Gandhinagar
 *   💼 **Current Role:** Management Trainee in PV cell Research & Development at a solar manufacturing factory
 *   🔭 **Focus Areas:** Computational Fluid Dynamics (CFD), semiconductor modeling, and PINN
-*   🛠️ **Core Tools:** MATLAB, Python, c++, COMSOL Multiphysics, ANSYS Fluent, open FOAM, 3D modelling tools , Git
+*   🛠️ **Core Tools:** MATLAB, Python, C++, COMSOL Multiphysics, ANSYS Fluent, open FOAM, 3D modelling tools , Git
 
 ### 🔬 My Projects
 
